@@ -1,2 +1,2 @@
-# PERSONALIZED-NEWS-AGGREGATOR
-A Personalized News Aggregator is a software project that collects news from multiple sources and shows users customized news based on their interests, behavior, and preferences.
+# MENTOR - MENTEE
+A Mentor–Mentee Project is a structured initiative where an experienced person (mentor) guides a less experienced individual (mentee) to help them grow skills, knowledge, and confidence.
